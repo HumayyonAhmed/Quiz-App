@@ -1,4 +1,4 @@
 # React Quiz App
 ### This is a Simple Quiz App made with TypeScript
 #### Surge URL: http://react-ts-quiz-app.surge.sh/
-#### Netlify: https://quizapp-humayyonahmed.netlify.app/
+#### Netlify: https://ha-quizapp.netlify.app/
